@@ -1,0 +1,33 @@
+body {
+     background-color: rgb(141, 241, 146);
+     text-align: justify;
+}
+
+h1 {
+    color: rgba(10, 10, 10, 0.788);
+    text-align: center;
+}
+
+h2 {
+    color: rgb(59, 10, 175);
+    text-decoration: double;text-align: left;
+           
+}
+
+h5{
+    font-size: xx-large;
+       text-align: center;
+}
+
+h3 {
+    text-align:center;
+
+}
+
+h4{
+    color: rgba(6,2,20,);
+    text-align: center;
+}
+
+p {
+   
